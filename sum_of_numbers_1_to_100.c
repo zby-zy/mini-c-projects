@@ -2,13 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main(){
+int main(int argc, char *argv[]){
     int sum = 0;
     int i;
 
     for(i = 0; i <= 100; i++){
         sum += i;
-        printf("Result: ½d", sum);
+        printf("Result: %d", sum);
     }
-
 }
