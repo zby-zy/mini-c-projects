@@ -19,6 +19,5 @@ int main(int argc, char *argv[]){
     printf("Length of text with for loop: %d\n", number);
     printf("Length of text with strlen: %d", length);
 
-
     return 0;
 }
