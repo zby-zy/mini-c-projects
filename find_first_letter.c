@@ -5,7 +5,7 @@ int main(int argc, char *argv[]){
 
     char text[100];
     printf("Enter text: ");
-    gets(text);
+    fgets(text,sizeof(text),stdin);
 
     int n = strlen(text);
     int i;
