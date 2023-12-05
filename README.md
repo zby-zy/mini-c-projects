@@ -3,3 +3,4 @@ Welcome to the Mini C Projects repository! Embarking on the exciting journey of 
 
 ## Why Mini Projects?
 Traditional learning resources often focus on theory and syntax, but true mastery comes from applying that knowledge in real-world scenarios. That's where these mini projects come in. Tailored specifically for beginners, they are carefully crafted to guide you through practical exercises that reinforce fundamental C programming concepts. Each project is structured to provide a tangible sense of accomplishment, allowing you to witness your progress and gain confidence in your coding skills.
+
